@@ -3,7 +3,7 @@ Random maze generator and solver
 
 
 #Description
-This is a project I made in 2020 May when I was learning recursion(you could try this yourself too!). 
+This is a project I made when I was learning recursion(you could try this yourself too!). 
 Recently I start sorting my codes and decide to post some of them on Github. 
 This C programming currently have some flaws dealing with ranndom maze generation when it tries to generate a even number maze.
 Maybe if I have time in the future, I will solve this out.
